@@ -18,3 +18,5 @@ pip install psutil tqdm pandas
 ```
 python go.py
 ```
+
+* may violate terms of service, use with caution
