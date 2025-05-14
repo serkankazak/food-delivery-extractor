@@ -12,6 +12,8 @@ pip install psutil tqdm pandas
 
 ### in code, js selectors removed due to legal reasons but you can find them easily if you want
 
+#### create cache folder before first run
+
 ```
 python go.py
 ```
