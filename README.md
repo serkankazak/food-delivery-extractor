@@ -1,4 +1,5 @@
 # food delivery site extractor
+#### scrolls and extracts restaurants data
 
 http://www.youtube.com/watch?v=10Zz4QkzKCE
 
